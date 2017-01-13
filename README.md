@@ -44,7 +44,8 @@ The 4x4 matrix that you would like to convert into a dual quaternion
 
 ## References
 
-- TODO: Find that paper that I learned the equation from ...
+- http://cs.gmu.edu/~jmlien/teaching/cs451/uploads/Main/dual-quaternion.pdf
+  - 4x4 matrix to dual quaternion formula is in Section 7.1.6
 
 ## License
 
