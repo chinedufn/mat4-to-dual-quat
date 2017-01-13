@@ -1,6 +1,6 @@
 {
   "name": "mat4-to-dual-quat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert a 4x4 matrix into a dual quaternion. Useful for skeletal animation (dual quaternion linear blending)",
   "main": "src/mat4-to-dual-quat",
   "scripts": {
