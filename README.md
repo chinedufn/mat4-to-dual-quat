@@ -40,6 +40,7 @@ The 4x4 matrix that you would like to convert into a dual quaternion
 
 ## See Also
 
+- [dual-quat-to-mat4](https://github.com/chinedufn/dual-quat-to-mat4)
 - [skeletal-animation-system](https://github.com/chinedufn/skeletal-animation-system)
 
 ## References
